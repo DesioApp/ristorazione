@@ -37,7 +37,16 @@
           "TYPE": "MENU",
           "MENU": [
             {
-              "TITLE": "Al Presidente"
+              "TITLE": "Al Presidente",
+              "ACTION": {
+                "TITLE": "Al Presidente",
+                "SUBTITLE": "Menu Pizzeria",
+                "TYPE": "GALLERY",
+                "GALLERY": {
+                  "Dataset": "ristorazione",
+                  "Folder": "al_presidente"
+                }
+              }
             },
             {
               "TITLE": "Capitan Pizzurger"
