@@ -1,0 +1,77 @@
+{
+  "VERSIONE": 1,
+  "ACTION": {
+    "TITLE": "Ristorazione",
+    "SUBTITLE": "Menu locali e del giorno",
+    "NEWPAGE": true,
+    "TYPE": "MENU",
+    "MENU": [
+      {
+        "ICON": "e561",
+        "TITLE": "Menu del Giorno",
+        "SUBTITLE": "",
+        "ACTION": {
+          "TITLE": "Menu del Giorno",
+          "SUBTITLE": "",
+          "TYPE": "MENU",
+          "MENU": [
+            {
+              "TITLE": "Gastronomia Safran"
+            },
+            {
+              "TITLE": "L'accademia Della Pasta"
+            },
+            {
+              "TITLE": "Ristorante Pizzeria Il Tramonto"
+            }
+          ]
+        }
+      },
+      {
+        "ICON": "e552",
+        "TITLE": "Pizzerie",
+        "SUBTITLE": "",
+        "ACTION": {
+          "TITLE": "Elenco Pizzerie",
+          "SUBTITLE": "",
+          "TYPE": "MENU",
+          "MENU": [
+            {
+              "TITLE": "Al Presidente"
+            },
+            {
+              "TITLE": "Capitan Pizzurger"
+            },
+            {
+              "TITLE": "Casa da Vinci"
+            },
+            {
+              "TITLE": "Il Poeta"
+            },
+            {
+              "TITLE": "Il Tramonto"
+            },
+            {
+              "TITLE": "La Teglia"
+            },
+            {
+              "TITLE": "Pizzaland"
+            },
+            {
+              "TITLE": "Pizzeria da Gigi"
+            },
+            {
+              "TITLE": "Pizzeria StRapizzami"
+            },
+            {
+              "TITLE": "Pummaro'"
+            },
+            {
+              "TITLE": "X Pizza"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
