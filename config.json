@@ -50,8 +50,8 @@
                       "SUBTITLE": "Menu Pizzeria",
                       "TYPE": "GALLERY",
                       "GALLERY": {
-                        "Dataset": "ristorazione",
-                        "Folder": "al_presidente"
+                        "DATASET": "ristorazione",
+                        "FOLDER": "al_presidente"
                       }
                     }
                   }
