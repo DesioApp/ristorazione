@@ -40,12 +40,22 @@
               "TITLE": "Al Presidente",
               "ACTION": {
                 "TITLE": "Al Presidente",
-                "SUBTITLE": "Menu Pizzeria",
-                "TYPE": "GALLERY",
-                "GALLERY": {
-                  "Dataset": "ristorazione",
-                  "Folder": "al_presidente"
-                }
+                "SUBTITLE": "",
+                "TYPE": "MENU",
+                "MENU": [
+                  {
+                    "TITLE": "Visualizza Menu Pizzeria",
+                    "ACTION": {
+                      "TITLE": "Al Presidente",
+                      "SUBTITLE": "Menu Pizzeria",
+                      "TYPE": "GALLERY",
+                      "GALLERY": {
+                        "Dataset": "ristorazione",
+                        "Folder": "al_presidente"
+                      }
+                    }
+                  }
+                ]
               }
             },
             {
