@@ -16,13 +16,52 @@
           "TYPE": "MENU",
           "MENU": [
             {
-              "TITLE": "Gastronomia Safran"
+              "TITLE": "Gastronomia Safran",
+              "ACTION": {
+                "TITLE": "Gastronomia Safran",
+                "SUBTITLE": "Menu del giorno",
+                "TYPE": "POSTFB",
+                "POSTFB": {
+                  "PAGE": "Gastronomia.Safran",
+                  "FILTER": [
+                    "#menudelgiorno",
+                    "#menùdelgiorno"
+                  ],
+                  "TODAY": true
+                }
+              }
             },
             {
-              "TITLE": "L'accademia Della Pasta"
+              "TITLE": "L'accademia Della Pasta",
+              "ACTION": {
+                "TITLE": "L'accademia Della Pasta",
+                "SUBTITLE": "Menu del giorno",
+                "TYPE": "POSTFB",
+                "POSTFB": {
+                  "PAGE": "laccademia.desio.it",
+                  "FILTER": [
+                    "#menudelgiorno",
+                    "#menùdelgiorno"
+                  ],
+                  "TODAY": true
+                }
+              }
             },
             {
-              "TITLE": "Ristorante Pizzeria Il Tramonto"
+              "TITLE": "Ristorante Pizzeria Il Tramonto",
+              "ACTION": {
+                "TITLE": "Ristorante Pizzeria Il Tramonto",
+                "SUBTITLE": "Menu del giorno",
+                "TYPE": "POSTFB",
+                "POSTFB": {
+                  "PAGE": "ristorantepizzeriailtramonto",
+                  "FILTER": [
+                    "#menudelgiorno",
+                    "#menùdelgiorno"
+                  ],
+                  "TODAY": true
+                }
+              }
             }
           ]
         }
@@ -59,7 +98,26 @@
               }
             },
             {
-              "TITLE": "Capitan Pizzurger"
+              "TITLE": "Capitan Pizzurger",
+              "ACTION": {
+                "TITLE": "Capitan Pizzurger",
+                "SUBTITLE": "",
+                "TYPE": "MENU",
+                "MENU": [
+                  {
+                    "TITLE": "Visualizza Menu Pizzeria",
+                    "ACTION": {
+                      "TITLE": "Capitan Pizzurger",
+                      "SUBTITLE": "Menu Pizzeria",
+                      "TYPE": "GALLERY",
+                      "GALLERY": {
+                        "DATASET": "ristorazione",
+                        "FOLDER": "capitan_pizzurger"
+                      }
+                    }
+                  }
+                ]
+              }
             },
             {
               "TITLE": "Casa da Vinci"
@@ -94,7 +152,7 @@
       {
         "ICON": "f021",
         "TITLE": "Refresh Menu",
-        "SUBTITLE": "Aggiorna dati app",
+        "SUBTITLE": "Aggiorna dati modulo",
         "VISIBLE": true,
         "ACTION": {
           "TYPE": "REFRESH"
