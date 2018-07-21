@@ -120,31 +120,202 @@
               }
             },
             {
-              "TITLE": "Casa da Vinci"
+              "TITLE": "Casa da Vinci",
+              "ACTION": {
+                "TITLE": "Casa da Vinci",
+                "SUBTITLE": "",
+                "TYPE": "MENU",
+                "MENU": [
+                  {
+                    "TITLE": "Visualizza Menu Pizzeria",
+                    "ACTION": {
+                      "TITLE": "Casa da Vinci",
+                      "SUBTITLE": "Menu Pizzeria",
+                      "TYPE": "GALLERY",
+                      "GALLERY": {
+                        "DATASET": "ristorazione",
+                        "FOLDER": "casa_da_vinci"
+                      }
+                    }
+                  }
+                ]
+              }
             },
             {
-              "TITLE": "Il Poeta"
+              "TITLE": "Il Poeta",
+              "ACTION": {
+                "TITLE": "Il Poeta",
+                "SUBTITLE": "",
+                "TYPE": "MENU",
+                "MENU": [
+                  {
+                    "TITLE": "Visualizza Menu Pizzeria",
+                    "ACTION": {
+                      "TITLE": "Il Poeta",
+                      "SUBTITLE": "Menu Pizzeria",
+                      "TYPE": "GALLERY",
+                      "GALLERY": {
+                        "DATASET": "ristorazione",
+                        "FOLDER": "il_poeta"
+                      }
+                    }
+                  }
+                ]
+              }
             },
             {
-              "TITLE": "Il Tramonto"
+              "TITLE": "Il Tramonto",
+              "ACTION": {
+                "TITLE": "Il Tramonto",
+                "SUBTITLE": "",
+                "TYPE": "MENU",
+                "MENU": [
+                  {
+                    "TITLE": "Visualizza Menu Pizzeria",
+                    "ACTION": {
+                      "TITLE": "Il Tramonto",
+                      "SUBTITLE": "Menu Pizzeria",
+                      "TYPE": "GALLERY",
+                      "GALLERY": {
+                        "DATASET": "ristorazione",
+                        "FOLDER": "il_tramonto"
+                      }
+                    }
+                  }
+                ]
+              }
             },
             {
-              "TITLE": "La Teglia"
+              "TITLE": "La Teglia",
+              "ACTION": {
+                "TITLE": "La Teglia",
+                "SUBTITLE": "",
+                "TYPE": "MENU",
+                "MENU": [
+                  {
+                    "TITLE": "Visualizza Menu Pizzeria",
+                    "ACTION": {
+                      "TITLE": "La Teglia",
+                      "SUBTITLE": "Menu Pizzeria",
+                      "TYPE": "GALLERY",
+                      "GALLERY": {
+                        "DATASET": "ristorazione",
+                        "FOLDER": "la_teglia"
+                      }
+                    }
+                  }
+                ]
+              }
             },
             {
-              "TITLE": "Pizzaland"
+              "TITLE": "Pizzaland",
+              "ACTION": {
+                "TITLE": "Pizzaland",
+                "SUBTITLE": "",
+                "TYPE": "MENU",
+                "MENU": [
+                  {
+                    "TITLE": "Visualizza Menu Pizzeria",
+                    "ACTION": {
+                      "TITLE": "Pizzaland",
+                      "SUBTITLE": "Menu Pizzeria",
+                      "TYPE": "GALLERY",
+                      "GALLERY": {
+                        "DATASET": "ristorazione",
+                        "FOLDER": "pizzaland"
+                      }
+                    }
+                  }
+                ]
+              }
             },
             {
-              "TITLE": "Pizzeria da Gigi"
+              "TITLE": "Pizzeria da Gigi",
+              "ACTION": {
+                "TITLE": "Pizzeria da Gigi",
+                "SUBTITLE": "",
+                "TYPE": "MENU",
+                "MENU": [
+                  {
+                    "TITLE": "Visualizza Menu Pizzeria",
+                    "ACTION": {
+                      "TITLE": "Pizzeria da Gigi",
+                      "SUBTITLE": "Menu Pizzeria",
+                      "TYPE": "GALLERY",
+                      "GALLERY": {
+                        "DATASET": "ristorazione",
+                        "FOLDER": "pizzeria_da_gigi"
+                      }
+                    }
+                  }
+                ]
+              }
             },
             {
-              "TITLE": "Pizzeria StRapizzami"
+              "TITLE": "Pizzeria StRapizzami",
+              "ACTION": {
+                "TITLE": "Pizzeria StRapizzami",
+                "SUBTITLE": "",
+                "TYPE": "MENU",
+                "MENU": [
+                  {
+                    "TITLE": "Visualizza Menu Pizzeria",
+                    "ACTION": {
+                      "TITLE": "Pizzeria StRapizzami",
+                      "SUBTITLE": "Menu Pizzeria",
+                      "TYPE": "GALLERY",
+                      "GALLERY": {
+                        "DATASET": "ristorazione",
+                        "FOLDER": "strapizzami"
+                      }
+                    }
+                  }
+                ]
+              }
             },
             {
-              "TITLE": "Pummaro'"
+              "TITLE": "Pummaro'",
+              "ACTION": {
+                "TITLE": "Pummaro'",
+                "SUBTITLE": "",
+                "TYPE": "MENU",
+                "MENU": [
+                  {
+                    "TITLE": "Visualizza Menu Pizzeria",
+                    "ACTION": {
+                      "TITLE": "Pummaro'",
+                      "SUBTITLE": "Menu Pizzeria",
+                      "TYPE": "GALLERY",
+                      "GALLERY": {
+                        "DATASET": "ristorazione",
+                        "FOLDER": "pummaro"
+                      }
+                    }
+                  }
+                ]
+              }
             },
             {
-              "TITLE": "X Pizza"
+              "TITLE": "X Pizza",
+              "ACTION": {
+                "TITLE": "X Pizza",
+                "SUBTITLE": "",
+                "TYPE": "MENU",
+                "MENU": [
+                  {
+                    "TITLE": "Visualizza Menu Pizzeria",
+                    "ACTION": {
+                      "TITLE": "X Pizza",
+                      "SUBTITLE": "Menu Pizzeria",
+                      "TYPE": "GALLERY",
+                      "GALLERY": {
+                        "DATASET": "ristorazione",
+                        "FOLDER": "x_pizza"
+                      }
+                    }
+                  }
+                ]
+              }
             }
           ]
         }
