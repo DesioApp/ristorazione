@@ -17,13 +17,14 @@
           "MENU": [
             {
               "TITLE": "Gastronomia Safran",
-              "SUBTITLE":"PRODUZIONE E VENDITA PASTA FRESCA",
+              "SUBTITLE": "PRODUZIONE E VENDITA PASTA FRESCA",
               "ACTION": {
                 "TITLE": "Gastronomia Safran",
                 "SUBTITLE": "Menu del giorno",
                 "TYPE": "POSTFB",
                 "POSTFB": {
                   "PAGE": "Gastronomia.Safran",
+                  "MESSAGENOTFOUND": "Menù del giorno non presente",
                   "FILTER": [
                     "#menudelgiorno",
                     "#menùdelgiorno"
