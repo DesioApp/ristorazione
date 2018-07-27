@@ -17,7 +17,6 @@
           "MENU": [
             {
               "TITLE": "Gastronomia Safran",
-              "SUBTITLE": "PRODUZIONE E VENDITA PASTA FRESCA",
               "ACTION": {
                 "TITLE": "Gastronomia Safran",
                 "SUBTITLE": "Menu del giorno",
@@ -36,6 +35,7 @@
             },
             {
               "TITLE": "L'accademia Della Pasta",
+              "SUBTITLE": "PRODUZIONE E VENDITA PASTA FRESCA",              
               "ACTION": {
                 "TITLE": "L'accademia Della Pasta",
                 "SUBTITLE": "Menu del giorno",
