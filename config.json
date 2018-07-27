@@ -24,6 +24,7 @@
                 "TYPE": "POSTFB",
                 "POSTFB": {
                   "PAGE": "Gastronomia.Safran",
+                  "MESSAGELOADING": "Caricamento menu in corso...",
                   "MESSAGENOTFOUND": "Menu del giorno non presente",
                   "FILTER": [
                     "#menudelgiorno",
@@ -41,6 +42,7 @@
                 "TYPE": "POSTFB",
                 "POSTFB": {
                   "PAGE": "laccademia.desio.it",
+                  "MESSAGELOADING": "Caricamento menu in corso...",
                   "MESSAGENOTFOUND": "Menu del giorno non presente",
                   "FILTER": [
                     "#menudelgiorno",
@@ -58,6 +60,7 @@
                 "TYPE": "POSTFB",
                 "POSTFB": {
                   "PAGE": "ristorantepizzeriailtramonto",
+                  "MESSAGELOADING": "Caricamento menu in corso...",
                   "MESSAGENOTFOUND": "Menu del giorno non presente",
                   "FILTER": [
                     "#menudelgiorno",
